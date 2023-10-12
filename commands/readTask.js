@@ -36,5 +36,3 @@ export default async function readTask() {
     process.exit(1)
   }
 }
-
-readTask()
